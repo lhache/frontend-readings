@@ -17,3 +17,7 @@ A list of interesting articles
 ### CSS
 
 - CSS perfs: https://github.com/mdo/css-perf
+
+
+### GIT
+- Sparse Checkout_ http://blog.quilitz.de/2010/03/checkout-sub-directories-in-git-sparse-checkouts/
