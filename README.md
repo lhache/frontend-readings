@@ -7,6 +7,7 @@ A list of interesting articles
 ### Frontend generalities
 
 - Automating frontend worklow: https://speakerdeck.com/addyosmani/automating-front-end-workflow
+- Webpage Rendering: http://frontendbabel.info/articles/webpage-rendering-101/
 
 
 ### Design
