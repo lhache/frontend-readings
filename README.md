@@ -24,3 +24,7 @@ A list of interesting articles
 
 ### GIT
 - Sparse Checkout_ http://blog.quilitz.de/2010/03/checkout-sub-directories-in-git-sparse-checkouts/
+- 
+
+### Random
+- How to be polite: https://medium.com/message/how-to-be-polite-9bf1e69e888c
