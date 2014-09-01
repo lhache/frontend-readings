@@ -8,6 +8,10 @@ A list of interesting articles
 
 - Automating frontend worklow: https://speakerdeck.com/addyosmani/automating-front-end-workflow
 - Webpage Rendering: http://frontendbabel.info/articles/webpage-rendering-101/
+- 
+
+### JavaScript
+- JS Memory management: https://speakerdeck.com/addyosmani/javascript-memory-management-masterclass?utm_source=javascriptweekly&utm_medium=email
 
 
 ### Design - UX
