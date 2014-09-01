@@ -8,7 +8,7 @@ A list of interesting articles
 
 - Automating frontend worklow: https://speakerdeck.com/addyosmani/automating-front-end-workflow
 - Webpage Rendering: http://frontendbabel.info/articles/webpage-rendering-101/
-- 
+ 
 
 ### JavaScript
 - JS Memory management: https://speakerdeck.com/addyosmani/javascript-memory-management-masterclass?utm_source=javascriptweekly&utm_medium=email
@@ -29,7 +29,7 @@ A list of interesting articles
 
 ### GIT
 - Sparse Checkout_ http://blog.quilitz.de/2010/03/checkout-sub-directories-in-git-sparse-checkouts/
-- 
+
 
 ### Random
 - How to be polite: https://medium.com/message/how-to-be-polite-9bf1e69e888c
