@@ -10,8 +10,10 @@ A list of interesting articles
 - Webpage Rendering: http://frontendbabel.info/articles/webpage-rendering-101/
  
 
-### JavaScript
+### JavaScript Perf
 - JS Memory management: https://speakerdeck.com/addyosmani/javascript-memory-management-masterclass?utm_source=javascriptweekly&utm_medium=email
+- timing.js: https://github.com/addyosmani/timing.js
+- istanbul.js: http://gotwarlost.github.io/istanbul
 
 
 ### Design - UX
