@@ -11,9 +11,12 @@ A list of interesting articles
  
 
 ### JavaScript Perf
-- JS Memory management: https://speakerdeck.com/addyosmani/javascript-memory-management-masterclass?utm_source=javascriptweekly&utm_medium=email
+- JS Memory management: https://speakerdeck.com/addyosmani/javascript-memory-management-masterclass
 - timing.js: https://github.com/addyosmani/timing.js
 - istanbul.js: http://gotwarlost.github.io/istanbul
+ 
+### Angular
+- 10 Angular mistakes: http://www.airpair.com/angularjs/posts/top-10-mistakes-angularjs-developers-make
 
 
 ### Design - UX
