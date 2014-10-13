@@ -10,6 +10,8 @@ A list of interesting articles
 - Webpage Rendering: http://frontendbabel.info/articles/webpage-rendering-101/
 - Ode to specs: http://www.smashingmagazine.com/2014/10/09/front-end-development-ode-to-specifications/
  
+### JavaScript generalities
+- Must watch: https://github.com/bolshchikov/js-must-watch
 
 ### JavaScript Perf
 - JS Memory management: https://speakerdeck.com/addyosmani/javascript-memory-management-masterclass
@@ -32,6 +34,7 @@ A list of interesting articles
 
 ### CSS
 
+- Must watch: https://github.com/AllThingsSmitty/must-watch-css
 - Scalable CSS: https://github.com/davidtheclark/scalable-css-reading-list
 - Utility classes: http://davidtheclark.com/on-utility-classes
 - CSS perfs: https://github.com/mdo/css-perf
