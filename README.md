@@ -41,6 +41,7 @@ A list of interesting articles
 - CSS @Medium: https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06
 - Centering: http://css-tricks.com/centering-css-complete-guide/
 - CSS in emails: https://www.campaignmonitor.com/css/
+- CSS tracking only: http://www.smashingmagazine.com/2014/10/16/css-only-solution-for-ui-tracking/
 
 
 ### GIT
