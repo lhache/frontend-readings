@@ -44,6 +44,7 @@ A list of interesting articles
 - CSS in emails: https://www.campaignmonitor.com/css/
 - CSS tracking only: http://www.smashingmagazine.com/2014/10/16/css-only-solution-for-ui-tracking/
 - display:table; http://colintoh.com/blog/display-table-anti-hero
+- flexbox: http://philipwalton.github.io/solved-by-flexbox/
 
 
 ### GIT
