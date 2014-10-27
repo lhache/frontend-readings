@@ -43,6 +43,7 @@ A list of interesting articles
 - Centering: http://css-tricks.com/centering-css-complete-guide/
 - CSS in emails: https://www.campaignmonitor.com/css/
 - CSS tracking only: http://www.smashingmagazine.com/2014/10/16/css-only-solution-for-ui-tracking/
+- display:table; http://colintoh.com/blog/display-table-anti-hero
 
 
 ### GIT
