@@ -54,3 +54,4 @@ A list of interesting articles
 
 ### Random
 - How to be polite: https://medium.com/message/how-to-be-polite-9bf1e69e888c
+- About empathy: http://uxmag.com/articles/what-is-empathy
