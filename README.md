@@ -22,6 +22,7 @@ A list of interesting articles
  
 ### Angular
 - 10 Angular mistakes: http://www.airpair.com/angularjs/posts/top-10-mistakes-angularjs-developers-make
+- Angular 2.0: http://eisenbergeffect.bluespire.com/all-about-angular-2-0
 
 
 ### Design - UX
