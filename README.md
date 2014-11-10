@@ -19,6 +19,7 @@ A list of interesting articles
 - istanbul.js: http://gotwarlost.github.io/istanbul
 - stats.js: https://github.com/mrdoob/stats.js
 - A collection of articles: https://github.com/davidsonfellipe/awesome-wpo
+- TooManyImages: https://github.com/addyosmani/tmi
  
 ### Angular
 - 10 Angular mistakes: http://www.airpair.com/angularjs/posts/top-10-mistakes-angularjs-developers-make
