@@ -9,6 +9,9 @@ A list of interesting articles
 - Automating frontend worklow: https://speakerdeck.com/addyosmani/automating-front-end-workflow
 - Webpage Rendering: http://frontendbabel.info/articles/webpage-rendering-101/
 - Ode to specs: http://www.smashingmagazine.com/2014/10/09/front-end-development-ode-to-specifications/
+
+### Frontend architecture
+- Flux facebook: https://github.com/facebook/flux
  
 ### JavaScript generalities
 - Must watch: https://github.com/bolshchikov/js-must-watch
