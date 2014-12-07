@@ -56,7 +56,10 @@ A list of interesting articles
 ### GIT
 - Sparse Checkout_ http://blog.quilitz.de/2010/03/checkout-sub-directories-in-git-sparse-checkouts/
 
+### Mobile apps:
+- asking user reviews: https://medium.com/circa/the-right-way-to-ask-users-to-review-your-app-9a32fd604fca
 
 ### Random
 - How to be polite: https://medium.com/message/how-to-be-polite-9bf1e69e888c
 - About empathy: http://uxmag.com/articles/what-is-empathy
+- recognisinc company culture: https://medium.com/@natashapuri/5-ways-to-know-a-companys-work-culture-without-asking-b0a1b3a87ae9
