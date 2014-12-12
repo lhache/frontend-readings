@@ -7,6 +7,7 @@ A list of interesting articles
 ### Frontend generalities
 
 - Automating frontend worklow: https://speakerdeck.com/addyosmani/automating-front-end-workflow
+- Frontend tools: https://speakerdeck.com/addyosmani/front-end-tooling-workflows
 - Webpage Rendering: http://frontendbabel.info/articles/webpage-rendering-101/
 - Ode to specs: http://www.smashingmagazine.com/2014/10/09/front-end-development-ode-to-specifications/
 
