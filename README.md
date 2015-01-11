@@ -25,6 +25,7 @@ A list of interesting articles
 - stats.js: https://github.com/mrdoob/stats.js
 - A collection of articles: https://github.com/davidsonfellipe/awesome-wpo
 - TooManyImages: https://github.com/addyosmani/tmi
+- chrome devtools snippets: https://github.com/bahmutov/code-snippets
  
 ### Angular
 - 10 Angular mistakes: http://www.airpair.com/angularjs/posts/top-10-mistakes-angularjs-developers-make
