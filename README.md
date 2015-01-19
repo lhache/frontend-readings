@@ -14,6 +14,7 @@ A list of interesting articles
 
 ### Frontend architecture
 - Flux facebook: https://github.com/facebook/flux
+- JavaScript Application Architecture On The Road To 2015: https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b
  
 ### JavaScript generalities
 - Must watch: https://github.com/bolshchikov/js-must-watch
