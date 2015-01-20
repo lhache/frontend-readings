@@ -64,6 +64,9 @@ A list of interesting articles
 ### Mobile apps:
 - asking user reviews: https://medium.com/circa/the-right-way-to-ask-users-to-review-your-app-9a32fd604fca
 
+### Interviews:
+- a set of questions: https://github.com/h5bp/Front-end-Developer-Interview-Questions
+
 ### Random
 - How to be polite: https://medium.com/message/how-to-be-polite-9bf1e69e888c
 - About empathy: http://uxmag.com/articles/what-is-empathy
