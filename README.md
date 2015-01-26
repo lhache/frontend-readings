@@ -20,6 +20,7 @@ A list of interesting articles
 ### JavaScript generalities
 - Must watch: https://github.com/bolshchikov/js-must-watch
 - ES6: https://github.com/lukehoban/es6features
+- airbnb styleguide: https://github.com/airbnb/javascript
 
 ### Perf
 - JS Memory management: https://speakerdeck.com/addyosmani/javascript-memory-management-masterclass
