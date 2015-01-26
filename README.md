@@ -11,6 +11,7 @@ A list of interesting articles
 - Webpage Rendering: http://frontendbabel.info/articles/webpage-rendering-101/
 - Ode to specs: http://www.smashingmagazine.com/2014/10/09/front-end-development-ode-to-specifications/
 - A guide to HTTP cache header: http://www.mobify.com/blog/beginners-guide-to-http-cache-headers/
+- styleguide: https://github.com/airbnb/javascript/issues/102
 
 ### Frontend architecture
 - Flux facebook: https://github.com/facebook/flux
