@@ -45,6 +45,7 @@ A list of interesting articles
 - Labels/placeholders on forms: http://www.uxmatters.com/mt/archives/2013/02/dont-put-labels-inside-text-boxes-unless-youre-luke-w.php
 - Faster forms on mobile: http://www.lukew.com/ff/entry.asp?1896
 - Typo, length per line: http://css-tricks.com/bookmarklet-colorize-text-45-75-characters-line-length-testing/
+- Automating style guide driven dev: http://www.smashingmagazine.com/2015/03/05/automating-style-guide-driven-development/
 
 ### Responsivity
 - Img srcset: http://ericportis.com/posts/2014/srcset-sizes/#part-2
