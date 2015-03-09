@@ -37,6 +37,7 @@ A list of interesting articles
 - 10 Angular mistakes: http://www.airpair.com/angularjs/posts/top-10-mistakes-angularjs-developers-make
 - Angular 2.0: http://eisenbergeffect.bluespire.com/all-about-angular-2-0
 - coding styleguide: https://github.com/johnpapa/angularjs-styleguide
+- Angular + React: https://www.youtube.com/watch?v=XQM0K6YG18s
 
 ### Design - UX
 
