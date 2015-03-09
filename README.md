@@ -13,6 +13,7 @@ A list of interesting articles
 - A guide to HTTP cache header: http://www.mobify.com/blog/beginners-guide-to-http-cache-headers/
 - On styleguides: https://github.com/airbnb/javascript/issues/102
 - Maintaining quality at scale: http://nerds.airbnb.com/maintaining-quality-scale/
+- SEO dynamic serving: https://developers.google.com/webmasters/mobile-sites/mobile-seo/configurations/dynamic-serving?hl=en
 
 ### Frontend architecture
 - Flux facebook: https://github.com/facebook/flux
