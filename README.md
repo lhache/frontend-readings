@@ -63,6 +63,7 @@ A list of interesting articles
 - CSS tracking only: http://www.smashingmagazine.com/2014/10/16/css-only-solution-for-ui-tracking/
 - display:table; http://colintoh.com/blog/display-table-anti-hero
 - flexbox: http://philipwalton.github.io/solved-by-flexbox/
+- Automating Style Guide-Driven Development - http://www.smashingmagazine.com/2015/03/05/automating-style-guide-driven-development/
 
 
 ### GIT
