@@ -65,7 +65,8 @@ A list of interesting articles
 - flexbox: http://philipwalton.github.io/solved-by-flexbox/
 - Automating Style Guide-Driven Development - http://www.smashingmagazine.com/2015/03/05/automating-style-guide-driven-development/
 
-
+### emails
+- http://www.leemunroe.com/building-html-email/
 ### GIT
 - Sparse Checkout_ http://blog.quilitz.de/2010/03/checkout-sub-directories-in-git-sparse-checkouts/
 
