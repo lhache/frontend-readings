@@ -19,6 +19,7 @@ A list of interesting articles
 - Flux facebook: https://github.com/facebook/flux
 - JavaScript Application Architecture On The Road To 2015: https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b
 - unidirectional user interface architectures: http://staltz.com/unidirectional-user-interface-architectures.html
+- Redux: http://rackt.org/redux/docs/advanced/AsyncFlow.html
  
 ### JavaScript generalities
 - Must watch: https://github.com/bolshchikov/js-must-watch
