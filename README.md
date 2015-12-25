@@ -35,6 +35,9 @@ A list of interesting articles
 - TooManyImages: https://github.com/addyosmani/tmi
 - chrome devtools snippets: https://github.com/bahmutov/code-snippets
 - psi: https://github.com/addyosmani/psi/
+
+### Redux
+- Understanding Redux Middleware: https://medium.com/@meagle/understanding-87566abcfb7a#.rg0fme65n
  
 ### Angular
 - 10 Angular mistakes: http://www.airpair.com/angularjs/posts/top-10-mistakes-angularjs-developers-make
