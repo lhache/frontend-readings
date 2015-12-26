@@ -35,6 +35,8 @@ A list of interesting articles
 - TooManyImages: https://github.com/addyosmani/tmi
 - chrome devtools snippets: https://github.com/bahmutov/code-snippets
 - psi: https://github.com/addyosmani/psi/
+- progressive apps: https://medium.com/@slightlylate/progressive-apps-escaping-tabs-without-losing-our-soul-3b93a8561955#.rignvh3xd
+- pocket sized js: http://www.thedotpost.com/2015/12/henrik-joreteg-pocket-sized-javascript
 
 ### Redux
 - Understanding Redux Middleware: https://medium.com/@meagle/understanding-87566abcfb7a#.rg0fme65n
