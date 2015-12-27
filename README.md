@@ -4,7 +4,7 @@ frontend-readings
 A list of interesting articles
 
 
-### Frontend generalities
+### generalities
 
 - Automating frontend worklow: https://speakerdeck.com/addyosmani/automating-front-end-workflow
 - Frontend tools: https://speakerdeck.com/addyosmani/front-end-tooling-workflows
@@ -14,6 +14,7 @@ A list of interesting articles
 - On styleguides: https://github.com/airbnb/javascript/issues/102
 - Maintaining quality at scale: http://nerds.airbnb.com/maintaining-quality-scale/
 - SEO dynamic serving: https://developers.google.com/webmasters/mobile-sites/mobile-seo/configurations/dynamic-serving?hl=en
+- what is shapghetti code? https://michaelochurch.wordpress.com/2012/08/15/what-is-spaghetti-code/
 
 ### Frontend architecture
 - Flux facebook: https://github.com/facebook/flux
