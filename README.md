@@ -55,6 +55,7 @@ A list of interesting articles
 - Faster forms on mobile: http://www.lukew.com/ff/entry.asp?1896
 - Typo, length per line: http://css-tricks.com/bookmarklet-colorize-text-45-75-characters-line-length-testing/
 - Automating style guide driven dev: http://www.smashingmagazine.com/2015/03/05/automating-style-guide-driven-development/
+- Atomic designs: http://bradfrost.com/blog/post/atomic-web-design/
 
 ### Responsivity
 - Img srcset: http://ericportis.com/posts/2014/srcset-sizes/#part-2
