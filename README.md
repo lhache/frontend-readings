@@ -21,6 +21,7 @@ A list of interesting articles
 - JavaScript Application Architecture On The Road To 2015: https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b
 - unidirectional user interface architectures: http://staltz.com/unidirectional-user-interface-architectures.html
 - Redux: http://rackt.org/redux/docs/advanced/AsyncFlow.html
+- what is reactive programming: https://medium.com/reactive-programming/what-is-reactive-programming-bc9fa7f4a7fc#.4r3jts8o9
  
 ### JavaScript generalities
 - Must watch: https://github.com/bolshchikov/js-must-watch
