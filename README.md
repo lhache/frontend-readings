@@ -3,7 +3,6 @@ frontend-readings
 
 A list of interesting articles
 
-
 ### generalities
 
 - Automating frontend worklow: https://speakerdeck.com/addyosmani/automating-front-end-workflow
@@ -90,3 +89,4 @@ A list of interesting articles
 - How to be polite: https://medium.com/message/how-to-be-polite-9bf1e69e888c
 - About empathy: http://uxmag.com/articles/what-is-empathy
 - recognisinc company culture: https://medium.com/@natashapuri/5-ways-to-know-a-companys-work-culture-without-asking-b0a1b3a87ae9
+- The real side of it: https://news.ycombinator.com/item?id=12166003
