@@ -73,6 +73,7 @@ A list of interesting articles
 - display:table; http://colintoh.com/blog/display-table-anti-hero
 - flexbox: http://philipwalton.github.io/solved-by-flexbox/
 - Automating Style Guide-Driven Development - http://www.smashingmagazine.com/2015/03/05/automating-style-guide-driven-development/
+- flexbox guide: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ### emails
 - http://www.leemunroe.com/building-html-email/
