@@ -85,6 +85,7 @@ A list of interesting articles
 
 ### Process
 - a criticism of scrum: http://www.aaron-gray.com/a-criticism-of-scrum/
+- An epic treatise on scheduling, bug tracking, and triage: https://apenwarr.ca/log/?m=201712#slide5
 
 ### Random
 - How to be polite: https://medium.com/message/how-to-be-polite-9bf1e69e888c
